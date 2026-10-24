@@ -17,14 +17,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-WASM-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-[Live Demo](#) · [Demo Video](#) · [Report a Bug](../../issues)
+
 
 <br />
 
 <!-- Replace with a real screenshot or GIF. Put the file in /docs and update the path. -->
-<img src="./docs/demo.png" alt="CanvasDoc screenshot" width="100%" />
+<img src="./app/assets/img.png" alt="CanvasDoc screenshot" width="100%" />
 
 </div>
+
+🚀 **Try it live:** [https://canvasdoc-gamma.vercel.app/]
 
 ---
 

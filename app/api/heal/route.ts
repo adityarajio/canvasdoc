@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server';
 import { healCode } from '@/lib/ai';
 
 const MAX = 20_000;
+export const maxDuration = 30;
 
 export async function POST(req: Request) {
   let b: Record<string, unknown>;
