@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./app/icon.svg" alt="CanvasDoc logo" width="84" height="84" />
+<img src="./app/icon.png" alt="CanvasDoc logo" width="84" height="84" />
 
 # CanvasDoc
 
