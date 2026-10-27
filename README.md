@@ -197,7 +197,7 @@ canvasdoc/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/canvasdoc.git
+git clone https://github.com/adityarajio/canvasdoc.git
 cd canvasdoc
 
 # Install dependencies
